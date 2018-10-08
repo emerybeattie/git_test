@@ -1,0 +1,1 @@
+This is Emery's first git project!
